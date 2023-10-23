@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+}
+ul {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rosybrown;
+    height: 30px;
+    padding: 10px;
+}
+ul li {
+    display: inline-flex;
+    justify-content: flex-end;
+    margin: 0 3px;
+}
+li{
+    list-style: none;
+  
+  }
+  a:hover{
+    background-color:rgb(231, 231, 159);
+  }
+  h1{
+    background-color: rgb(150, 97, 150);
+    color: azure;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  a{
+    color: black;
+  
+  }
